@@ -1,11 +1,47 @@
-Привет, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Сергей Алексеев
-============================================================================================================================================
+## Привет. Меня зовут Сергей! 👋
 
-ML/DL-инженер
--------------
+## ML/DL-инженер
+
+### 🌍 Я живу в Санкт-Петербурге
+
+### 👨‍🎓 Учусь в академии нейросетей [The Founder](https://academy.the-founder.ru/)
+
+### 📞 Вы можете связаться со мной по TG: (https://t.me/Alekseev_00))
 
 Обо мне: я начинающий специалист в области искусственного интеллекта. Имею неоконченное высшее образование, успешно окончил курсы в университете «Синергия» по направлению «Python-разработчик», в настоящее время прохожу обучение в академии нейросетей «The Founder». Сфера искусственного интеллекта заинтересовала меня давно, поэтому я начал осваивать разработку нейросетей. Это направление меня очень заинтересовало своей актуальностью и возможностью решать сложные задачи, требующие аналитического мышления, логики и статистики. На данный момент я активно применяю свои знания в реальных задачах.
 
-*   🌍 Я живу в Санкт-Петербурге
-*   ✉️ Вы можете связаться со мной по адресу [sergey.alekseyev23@mail.ru](mailto:sergey.alekseyev23@mail.ru)
-*   🧠 Я изучаю развитие нейронных сетей### Skills  <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>  </p>    ### Socials      <p align="left">  <a href="https://www.github.com/SergeyAleks00" target="_blank" rel="noreferrer">  <picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />  </picture>  </a></p>### Badges<b>My GitHub Stats</b><a  href="http://www.github.com/SergeyAleks00"><img src="https://github-readme-stats.vercel.app/api?username=SergeyAleks00&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SergeyAleks00's GitHub stats" /></a><a href="https://github.com/SergeyAleks00" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyAleks00&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Учебные проекты:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📈 Моя цель — перейти на позицию ML-инженера, где я смогу объединить свой опыт работы с реальными проектами, понимание технологий и навыки разработки.
+
+Образование и курсы
+
+- 2024 Разработчик нейросетей, The Founder (профессиональная переподготовка)
+- 2023 "Python-разработчик", Университет Синергия (повышение квалификации)
+- 2023 "Тренер по легкой атлетике", НГУ им. П. Ф. Лесгафта (неконченное высшее образование)
+- 2022 "Техник", Академия транспортных технологий (среднее-специальное)
+
