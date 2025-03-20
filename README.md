@@ -46,6 +46,8 @@ ___
 
 **Стек:** Python, scikit-learn, pandas, NLTK, Jupyter Notebook
 
+___
+
 
 
 
